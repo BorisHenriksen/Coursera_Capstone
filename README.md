@@ -11,3 +11,11 @@ a text to say hello.
 
 For this code to run, you will need to have the modules numpy and pandas installed in your
 Python environment. (Use pip install ...)
+
+Load_and_check_data.ipynb
+-------------------------
+This files loads the dataset and checks if any columns contain null values
+
+Predicting_heart_failure_week2.pdf
+----------------------------------
+Beginning of capstone report with description of the business problem and data used.
