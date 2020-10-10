@@ -19,3 +19,16 @@ This files loads the dataset and checks if any columns contain null values
 Predicting_heart_failure_week2.pdf
 ----------------------------------
 Beginning of capstone report with description of the business problem and data used.
+
+Predicting_heart_failure_final.pdf
+----------------------------------
+Final report
+
+Heart_failure_prediction.ipynb
+-------------------------
+Jupyter notebook with Python code showing how the data analysis was done.
+
+Presentation.pdf
+----------------------------------
+Executive summary/presentation of the report. (Created with PowerPoint)
+
